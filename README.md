@@ -22,7 +22,7 @@ Welcome to the Exploratory Data Analysis (EDA) project! This project aims to con
 
 ## Notebooks
 
-- 01 ED_Case_study.ipynb: Initial exploration of the dataset, summary statistics, and basic visualizations,analysis of individual features, identifying correlations, and extracting insights.
+- 01 EDA--Project.ipynb: Initial exploration of the dataset, summary statistics, and basic visualizations,analysis of individual features, identifying correlations, and extracting insights.
 
 ## Contributing
 
